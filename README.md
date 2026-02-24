@@ -1,2 +1,4 @@
 # TkSovTot
 Tietokantasovellusten toteuttaminen
+Testataan versiohallinnan toimintaa!
+Testataan versiohallinnan toimintaa!
